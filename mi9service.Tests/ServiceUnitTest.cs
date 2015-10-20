@@ -162,6 +162,7 @@ namespace mi9service.Test
         /// Reads the sample codign challenge json and pass it to the test methods
         /// </summary>
         /// <returns></returns>
+        [DeploymentItem("SampleJSON.txt")]
         private Show ReadExamSampleRequest()
         {
             #region ReadExamSampleRequest
