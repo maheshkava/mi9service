@@ -165,13 +165,13 @@ namespace mi9service.Test
         private Show ReadExamSampleRequest()
         {
             #region ReadExamSampleRequest
-            //using (StreamReader sr = new StreamReader("../../SampleJSON.txt"))
-            //{
-            //    String json = sr.ReadToEnd();
-            //    return JsonConvert.DeserializeObject<Input>(json);
-            //}
-            var json = new WebClient().DownloadString("https://raw.githubusercontent.com/mi9/coding-challenge-samples/master/sample_request.json");
-            return JsonConvert.DeserializeObject<Show>(json);
+            using (StreamReader sr = new StreamReader("../../SampleJSON.txt"))
+            {
+                String json = sr.ReadToEnd();
+                return JsonConvert.DeserializeObject<Show>(json);
+            }
+           // var json = new WebClient().DownloadString("https://raw.githubusercontent.com/mi9/coding-challenge-samples/master/sample_request.json");
+          //  return JsonConvert.DeserializeObject<Show>(json);
             #endregion     
         }
 

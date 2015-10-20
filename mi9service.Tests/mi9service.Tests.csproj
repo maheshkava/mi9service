@@ -121,6 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
+    <Content Include="SampleJSON.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
