@@ -18,7 +18,6 @@ c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Raz
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.WebPages.dll
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.WebPages.Razor.dll
-c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Optimization.dll
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Http.Tracing.dll
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\mi9service.pdb
 c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\Newtonsoft.Json.xml
