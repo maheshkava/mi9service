@@ -165,7 +165,7 @@ namespace mi9service.Test
         private Show ReadExamSampleRequest()
         {
             #region ReadExamSampleRequest
-            using (StreamReader sr = new StreamReader("../../SampleJSON.txt"))
+            using (StreamReader sr = new StreamReader("SampleJSON.txt"))
             {
                 String json = sr.ReadToEnd();
                 return JsonConvert.DeserializeObject<Show>(json);
