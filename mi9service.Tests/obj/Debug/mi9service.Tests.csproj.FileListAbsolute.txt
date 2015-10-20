@@ -65,3 +65,6 @@ c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\zh-Hant\System
 c:\users\cp544979\documents\mi9service\mi9service.Tests\obj\Debug\mi9service.Tests.csprojResolveAssemblyReference.cache
 c:\users\cp544979\documents\mi9service\mi9service.Tests\obj\Debug\mi9service.Tests.dll
 c:\users\cp544979\documents\mi9service\mi9service.Tests\obj\Debug\mi9service.Tests.pdb
+c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Http.Cors.dll
+c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Cors.dll
+c:\users\cp544979\documents\mi9service\mi9service.Tests\bin\Debug\System.Web.Http.Cors.xml

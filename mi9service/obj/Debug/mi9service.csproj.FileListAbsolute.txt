@@ -68,3 +68,6 @@ c:\users\cp544979\documents\mi9service\mi9service\bin\zh-Hant\System.Spatial.res
 c:\users\cp544979\documents\mi9service\mi9service\obj\Debug\mi9service.csprojResolveAssemblyReference.cache
 c:\users\cp544979\documents\mi9service\mi9service\obj\Debug\mi9service.dll
 c:\users\cp544979\documents\mi9service\mi9service\obj\Debug\mi9service.pdb
+c:\users\cp544979\documents\mi9service\mi9service\bin\System.Web.Cors.dll
+c:\users\cp544979\documents\mi9service\mi9service\bin\System.Web.Http.Cors.dll
+c:\users\cp544979\documents\mi9service\mi9service\bin\System.Web.Http.Cors.xml
