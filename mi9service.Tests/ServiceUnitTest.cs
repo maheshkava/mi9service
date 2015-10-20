@@ -162,19 +162,19 @@ namespace mi9service.Test
         /// Reads the sample codign challenge json and pass it to the test methods
         /// </summary>
         /// <returns></returns>
-        [DeploymentItem("SampleJSON.txt")]
-        private Show ReadExamSampleRequest()
-        {
-            #region ReadExamSampleRequest
-            using (StreamReader sr = new StreamReader("SampleJSON.txt"))
-            {
-                String json = sr.ReadToEnd();
-                return JsonConvert.DeserializeObject<Show>(json);
-            }
-           // var json = new WebClient().DownloadString("https://raw.githubusercontent.com/mi9/coding-challenge-samples/master/sample_request.json");
-          //  return JsonConvert.DeserializeObject<Show>(json);
-            #endregion     
-        }
+        //[DeploymentItem("SampleJSON.txt")]
+        //private Show ReadExamSampleRequest()
+        //{
+        //    #region ReadExamSampleRequest
+        //    using (StreamReader sr = new StreamReader("SampleJSON.txt"))
+        //    {
+        //        String json = sr.ReadToEnd();
+        //        return JsonConvert.DeserializeObject<Show>(json);
+        //    }
+        //   // var json = new WebClient().DownloadString("https://raw.githubusercontent.com/mi9/coding-challenge-samples/master/sample_request.json");
+        //  //  return JsonConvert.DeserializeObject<Show>(json);
+        //    #endregion     
+        //}
 
         /// <summary>
         /// another sample good data for testing
